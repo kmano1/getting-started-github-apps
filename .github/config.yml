@@ -4,6 +4,7 @@
 # Can be either a string :
 requestInfoReplyComment: >
   Change Message
+  Change2
 
 # Or an array:
 # requestInfoReplyComment:
